@@ -24,3 +24,5 @@ Data integration from multiple sources
 An insightful dashboard that empowers AirPure Innovations to make informed, strategic decisions based on the current market trends.
 
 🔗 Check out the live dashboard: https://tinyurl.com/BI-360-live-dashboard
+
+🔗 Video Presentation Link: https://youtu.be/wNk_6gPdZRA
